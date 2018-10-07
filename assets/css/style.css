@@ -1,0 +1,46 @@
+#jumbotron {
+
+    width: 80%;  
+    margin: auto;   
+    padding: 3%; 
+    background-color: rgb(233, 190, 98);  
+    color: white; 
+}
+
+.title {
+text-align: center;
+}
+
+#anytime {
+    font-size: 60px;
+}
+
+#choo {
+
+    font-size: 30px;
+}
+
+.table {
+    width: 90%; 
+    margin: auto;  
+}
+#listone {
+    color:white;
+    background-color: rgb(52, 74, 170);
+}
+
+.card {
+    width: 80%; 
+    margin: auto;
+}
+
+.card-header {
+    color: white;   
+    background-color: rgb(88, 98, 231);
+}
+
+#form { 
+    width: 90%; 
+    margin: auto;
+
+}
